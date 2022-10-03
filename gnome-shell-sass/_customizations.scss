@@ -1,0 +1,14 @@
+$base_font_size:    9;
+$_dark_base_color:  #282828; // Overview Background
+$bg_color:          #282828; // Interface Background
+$fg_color:          #d5c4a1; // Interface Foreground
+$selected_fg_color: #ffffff; // Accent Foreground
+$selected_bg_color: #83a598; // Accent Background
+$osd_fg_color:      #d5c4a1; // OSD Foreground
+$osd_bg_color:      #202020; // OSD Background
+$panel_bg_color:    #202020; // Panel Background
+
+// Optional Customizations
+$system_bg_color:       $_dark_base_color;              // Overview Background
+$dash_background_color: transparent;                    // Dash Background
+$panel_fg_color:        $fg_color;                      // Panel Foreground
